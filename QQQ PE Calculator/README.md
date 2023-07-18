@@ -20,7 +20,7 @@ pip install pandas yfinance
 ```
 Then, you can run the script from the command line:
 ```
-python qqq_pe.py
+python QQQ_PE_Ratio.py
 ```
 The output should look something like this:
 ```
