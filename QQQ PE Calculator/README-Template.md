@@ -1,6 +1,6 @@
-# Project Title
+# QQQ PE Calculator
 
-Simple overview of use/purpose.
+This is a Python script that calculates the price-to-earnings ratio (PE) of the Invesco QQQ Trust (QQQ), an exchange-traded fund (ETF) that tracks the Nasdaq-100 Index. The script uses the pandas and yfinance libraries to fetch and process the data.
 
 ## Description
 
